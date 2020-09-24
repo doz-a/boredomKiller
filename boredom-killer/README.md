@@ -5,7 +5,9 @@ deploying to heroku
 React?
 React Bootstrap
 
-Resources used:
+
+## Steps Used
+## Resources used:
 
 how to create and deploy react app to heroku
 https://medium.com/better-programming/how-to-deploy-your-react-app-to-heroku-aedc28b218ae

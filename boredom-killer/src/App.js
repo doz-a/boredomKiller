@@ -8,6 +8,12 @@ function App() {
       {/* top  */}
 
       <header className="App-header">
+        <h1>
+          Welcome to the Jungle
+        </h1>
+        <h3>
+          COVID-19 Activity Generator
+        </h3>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
@@ -20,20 +26,15 @@ function App() {
         >
           Learn React
         </a>
-      </header>
-      <h1>
-        Quarantine Activity Generator
-    </h1>
-
-    Headline
-      <br></br>
-      <br></br>
+        <br></br>
 
     Random Image
       <br></br>
-      <br></br>
+        <br></br>
 
     Activity button
+      </header>
+
 
       {/* bottom  */}
     </div>
